@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Krukowski</h1>
 <h3 align="center">Certified manual / automation tester with experience in test automation and data security in cooperation with IT Security experts from around the world.</h3>
 
-- 🌱 I’m currently learning **Python programming language**
+- 🌱 I’m currently learning **Java programming language**
 
 <p align="left">
 </p>
